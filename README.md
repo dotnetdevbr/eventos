@@ -1,6 +1,6 @@
 # Eventos
 
-Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.
+Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de .NET.
 
 ## Como funciona
 
