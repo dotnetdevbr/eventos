@@ -30,7 +30,7 @@ Pra facilitar a adição de um evento, criamos um template básico pra nos envia
 
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR, Frontend-PT
+[MIT](/LICENSE) &copy; FrontendBR, .NET Dev BR
 
 ## Repositórios do .NET Dev BR
 
